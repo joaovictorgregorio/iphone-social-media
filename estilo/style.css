@@ -12,13 +12,13 @@ html, body {
 }
 
 body {
-    background: url(../images/screens/tela-fundo.jpg) no-repeat bottom left;
+    background: url('../images/screens/tela-fundo.jpg') no-repeat bottom left;
     background-position: cover;
     background-position: fixed;
 }
 
 section#iphone {
-    background: url('/images/iphone/frame-iphone.png') no-repeat top center;
+    background: url('../images/iphone/frame-iphone.png') no-repeat top center;
     background-attachment: fixed;
 }
 
